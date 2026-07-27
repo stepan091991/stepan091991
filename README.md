@@ -6,6 +6,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>
 </div>
 <!--
 **stepan091991/stepan091991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
