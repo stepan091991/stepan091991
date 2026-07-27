@@ -1,4 +1,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stepan091991&theme=dark)](https://git.io/streak-stats)
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain-wordmark.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" **alt="Flask" width="40" height="40"/>
+</div>
 <!--
 **stepan091991/stepan091991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
