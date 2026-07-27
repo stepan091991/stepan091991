@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stepan091991&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stepan091991&theme=dark)](https://git.io/streak-stats)
 <!--
 **stepan091991/stepan091991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
